@@ -23,30 +23,45 @@ layout: default
     <div class="featured-image">
       <img src="{{ site.github.url }}/assets/img/{{ page.image_1 }}">
     </div>
+      {% if page.description_1 %}
+      <p> {{ page.description_1 }} </p>
+    {% endif %}
   {% endif %}
 
   {% if page.image_2 %}
     <div class="featured-image">
       <img src="{{ site.github.url }}/assets/img/{{ page.image_2 }}">
     </div>
+      {% if page.description_2 %}
+      <p> {{ page.description_2 }} </p>
+    {% endif %}
   {% endif %}
   
     {% if page.image_3 %}
     <div class="featured-image">
       <img src="{{ site.github.url }}/assets/img/{{ page.image_3 }}">
     </div>
+        {% if page.description_3 %}
+      <p> {{ page.description_3 }} </p>
+    {% endif %}
   {% endif %}
   
     {% if page.image_4 %}
     <div class="featured-image">
       <img src="{{ site.github.url }}/assets/img/{{ page.image_4 }}">
     </div>
+        {% if page.description_4 %}
+      <p> {{ page.description_4 }} </p>
+    {% endif %}
   {% endif %}
   
     {% if page.image_5 %}
     <div class="featured-image">
       <img src="{{ site.github.url }}/assets/img/{{ page.image_5 }}">
     </div>
+        {% if page.description_5 %}
+      <p> {{ page.description_5 }} </p>
+    {% endif %}
   {% endif %}
   
   
