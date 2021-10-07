@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Interesting Facts
-category: facts
+title: portfolio
+category: portfolio
 permalink: /portfolio
 ---
