@@ -22,6 +22,25 @@ layout: default
     </div>
   {% endif %}
   
+    {% if page.image_3 %}
+    <div class="featured-image">
+      <img src="{{ site.github.url }}/assets/img/{{ page.image_3 }}">
+    </div>
+  {% endif %}
+  
+    {% if page.image_4 %}
+    <div class="featured-image">
+      <img src="{{ site.github.url }}/assets/img/{{ page.image_4 }}">
+    </div>
+  {% endif %}
+  
+    {% if page.image_5 %}
+    <div class="featured-image">
+      <img src="{{ site.github.url }}/assets/img/{{ page.image_5 }}">
+    </div>
+  {% endif %}
+  
+  
   <article>
     {{ content }}
   </article>
