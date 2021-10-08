@@ -12,7 +12,7 @@ image_2: GreatSmoky_1.jpg
 description_2: " "
 image_3: GreatSmoky_2.jpg
 description_3: " "
-image_4: GreatSmoky_3.jpg
+image_4: GreatSmoky_4.jpg
 description_4: " "
 ---
 Hot Springs and Great Smoky Mountains National Park
