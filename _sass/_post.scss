@@ -15,6 +15,7 @@
   display: block;
   max-width: 600px;
 }
+
 @media (max-width: $container-width) {
   .post-content {
     width: 60vw;
@@ -93,4 +94,8 @@
   .related-thumbnail{
     width: 95vw;
   }
+}
+
+.featured-post {
+  background-position: bottom;
 }
