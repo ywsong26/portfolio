@@ -3,6 +3,8 @@
     <div class="featured-post" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/ )"{% endif %}>
       <h2><span>{{ post.title }}</span></h2>
     </div>
-    <div> {{ post.url }} {{ post.images }} {{ post.images.image }} {{ post.images | first.image }}</div>
+    <div> {{ post.url }}</div>
+    <div> {{ post.images.image }}</div>
+    <div> {{ post.images | first.image }}</div>
   </a>
 </article>
