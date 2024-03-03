@@ -4,8 +4,8 @@ title: "Visual Identify Guide"
 author: "Yiwei Song"
 categories: portfolio
 tags: [Visual, Book, Guide]
-image: M3-P2-S3-Song-Yiwei-final1.jpg
-description: ""
+image_0: M3-P2-S3-Song-Yiwei-final1.jpg
+description_0: ""
 image_1: M3-P2-S3-Song-Yiwei-final2.jpg
 description_1: "  "
 image_2: M3-P2-S3-Song-Yiwei-final3.jpg
