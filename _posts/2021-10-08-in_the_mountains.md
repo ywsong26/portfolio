@@ -5,15 +5,15 @@ author: "Yiwei Song"
 categories: portfolio
 tags: [Great Smoky Moutains, Hot Springs, Photograph, Fuji-XT4]
 images:
-  - url: HotSpring_1.jpg
+  - image: HotSpring_1.jpg
     description: ""
-  - url: HotSpring_2.jpg
+  - image: HotSpring_2.jpg
     description: ""
-  - url: GreatSmoky_1.jpg
+  - image: GreatSmoky_1.jpg
     description: ""
-  - url: GreatSmoky_2.jpg
+  - image: GreatSmoky_2.jpg
     description: ""
-  - url: GreatSmoky_4.jpg
+  - image: GreatSmoky_4.jpg
     description: ""
 
 ---
