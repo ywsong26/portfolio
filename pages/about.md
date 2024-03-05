@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: 
 permalink: /about
 ---
 ![Yiwei Song](../assets/img/yiweisong.png)
