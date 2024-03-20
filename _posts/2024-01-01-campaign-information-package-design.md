@@ -6,6 +6,7 @@ categories: portfolio
 tags: [Campaign, Information, Package, Design, Graphic]
 images:
   - image: CAMPAIGN_DESIGN-1.jpg
+    cover_image: cover_page_package_design.png
     description: ""
   - image: CAMPAIGN_DESIGN-2.jpg
     description: ""
