@@ -1,7 +1,13 @@
 <article>
   <a href="{{ site.github.url }}{{ post.url }}">
-    <div class="featured-post" {% if post.images %}style="background-image:url({{ site.github.url }}/assets/img/{{post.images[0].cover_image}}  )"{% endif %}>
+
+    <div class="featured-post" {% if post.images %}
+      style="background-image:url({{ site.github.url }}/assets/img/{% if post.images[0].cover_image %}{{ post.images[0].cover_image }}{% else %}{{ post.images[0].image }}{% endif %})"{% endif %}>
+      
       <h2><span>{{ post.title }}</span></h2>
     </div>
+
+
+    
   </a>
 </article>
