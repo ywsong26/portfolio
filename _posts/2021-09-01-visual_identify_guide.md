@@ -6,6 +6,7 @@ categories: portfolio
 tags: [Visual, Book, Guide]
 images:
   - image: M3-P2-S3-Song-Yiwei-final1.jpg
+    cover_image: first_finance_cover_page.png
     description: " "
   - image: M3-P2-S3-Song-Yiwei-final2.jpg
     description: " "
