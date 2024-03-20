@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "In The Mountains"
+title: "Photography"
 author: "Yiwei Song"
 categories: portfolio
 tags: [Great Smoky Moutains, Hot Springs, Photograph, Fuji-XT4]
