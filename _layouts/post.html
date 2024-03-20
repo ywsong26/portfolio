@@ -14,9 +14,15 @@ layout: default
   <div class="featured-image">
     <img src="{{ site.github.url }}/assets/img/{{ item.image }}">
   </div>
+  
   {% if item.description %}
     <p> {{ item.description }} </p>
   {% endif %}
+  
+  {% if item.link %}
+    <p> <a href= '{{ item.link }}'> </a> </p>
+  {% endif %}
+  
 {% endfor %}
   
   
