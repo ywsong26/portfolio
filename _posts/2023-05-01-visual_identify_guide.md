@@ -7,7 +7,7 @@ tags: [Visual, Book, Guide]
 images:
   - image: logo_design_1.png
     cover_image: first_finance_cover_page.png
-    description: " "
+    description: ""
   - image: M3-P2-S3-Song-Yiwei-final1.jpg
     description: " "
   - image: M3-P2-S3-Song-Yiwei-final2.jpg
