@@ -6,7 +6,7 @@ categories: portfolio
 tags: [Package, Design, Graphic Design, Photoshop]
 images:
   - image: PACKAGING-02.jpg
-    cover_image: package_design_1
+    cover_image: package_design_1.jpg
     description: ""
   - image: package_design_1.jpg
     description: ""
