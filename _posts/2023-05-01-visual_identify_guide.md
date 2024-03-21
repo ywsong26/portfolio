@@ -1,12 +1,14 @@
----
+![image](https://github.com/ywsong26/ywsong26.github.io/assets/92117655/0728ee74-625e-4e84-a5c4-39cd87b4ed13)---
 layout: post
 title: "Visual Identify Guide"
 author: "Yiwei Song"
 categories: portfolio
 tags: [Visual, Book, Guide]
 images:
-  - image: M3-P2-S3-Song-Yiwei-final1.jpg
+  - image: logo_design_1.png
     cover_image: first_finance_cover_page.png
+    description: " "
+  - image: M3-P2-S3-Song-Yiwei-final1.jpg
     description: " "
   - image: M3-P2-S3-Song-Yiwei-final2.jpg
     description: " "
