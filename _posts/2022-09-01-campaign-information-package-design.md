@@ -1,25 +1,13 @@
 ---
 layout: post
-title: "Campaign/Information/Package Design"
+title: "Package Design"
 author: "Yiwei Song"
 categories: portfolio
-tags: [Campaign, Information, Package, Design, Graphic]
+tags: [Package, Design, Graphic Design, Photoshop]
 images:
-  - image: CAMPAIGN_DESIGN-1.jpg
-    cover_image: cover_page_package_design.png
-    description: ""
-  - image: CAMPAIGN_DESIGN-2.jpg
-    description: ""
-  - image: CAMPAIGN_DESIGN-3.jpg
-    description: ""
-  - image: INFORMATION_DESIGN-1.jpg
-    description: ""
-  - image: INFORMATION_DESIGN-2.jpg
-    description: ""
-  - image: INFORMATION_DESIGN-3.jpg
-    description: ""
   - image: PACKAGING-02.jpg
+    cover_image: package_design_1
     description: ""
-  - image: PACKAGING-03.jpg
+  - image: package_design_1.jpg
     description: ""
 ---
