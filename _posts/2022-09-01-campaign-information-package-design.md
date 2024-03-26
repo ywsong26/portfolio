@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Package Design"
+title: "Packaging Design"
 author: "Yiwei Song"
 categories: portfolio
 tags: [Package, Design, Graphic Design, Photoshop]
